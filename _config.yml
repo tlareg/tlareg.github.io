@@ -1,0 +1,10 @@
+title: Tlareg
+email: tlaregaivir@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  tlareg github site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://tlareg.github.io" # the base hostname & protocol for your site
+github_username:  tlareg
+
+# Build settings
+markdown: kramdown
